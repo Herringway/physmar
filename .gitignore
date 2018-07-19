@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+physmar.so
+physmar.dylib
+physmar.dll
+physmar.a
+physmar.lib
+physmar-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.dll
+*.log
+dub.selections.json
